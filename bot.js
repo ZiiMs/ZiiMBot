@@ -10,9 +10,10 @@ client.on("ready", () => {
 
 client.on("message", msg => {
   if (msg.author.bot) return;
+  msg.content.includes("dirty buck")
   if (
-    msg.content.toLowerCase() === "dirty buck" ||
-    msg.content.toLowerCase() === "dirtybuck"
+    msg.content.toLowerCase().includes("dirty buck") ||
+    msg.content.toLowerCase().includes("dirtybuck")
   ) {
     msg.channel
       .send({

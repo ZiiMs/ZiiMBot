@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da7c9592-4522-4869-83b9-7b17b2a282c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bot.js" beforeDir="false" afterPath="$PROJECT_DIR$/bot.js" afterDir="false" />
-    </list>
+    <list default="true" id="da7c9592-4522-4869-83b9-7b17b2a282c0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +63,7 @@
       <updated>1607777658356</updated>
       <workItem from="1607777659436" duration="3205000" />
       <workItem from="1607782175923" duration="30000" />
-      <workItem from="1607819063778" duration="316000" />
+      <workItem from="1607819063778" duration="485000" />
     </task>
     <servers />
   </component>
