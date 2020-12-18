@@ -4,7 +4,7 @@ const client = new discord.Client();
 client.login(process.env.BOT_TOKEN);
 
 client.on("ready", () => {
-  console.log(`${client.user.tag} has logged in.`);
+  console.log(`Botname: ${client.user.tag} | Bot ready.`);
 });
 
 client.on("message", msg => {
